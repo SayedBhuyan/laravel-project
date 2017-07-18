@@ -48,6 +48,10 @@
             .title {
                 font-size: 84px;
             }
+            
+            .title h1 {
+                color: red;
+            }
 
             .links > a {
                 color: #636b6f;
